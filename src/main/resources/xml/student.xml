@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<students>
+    <student id="1">
+        <fullname>Nguyen Anh Minh</fullname>
+        <email>minhna@gmail.com</email>
+        <address>345, Hung Vuong, Da Nang</address>
+    </student>
+    <student id="2">
+        <fullname>Tram Tu Thieng</fullname>
+        <email>ttt.thieng@gmail.com</email>
+        <address>450 Doi Can, Ha Noi</address>
+    </student>
+    <student id="3">
+        <fullname>Duong Minh Tuan</fullname>
+        <email>tuandm@gmail.com</email>
+        <address>144, Phan Dang Luu, Tp. Ho Chi Minh</address>
+    </student>
+</students>
